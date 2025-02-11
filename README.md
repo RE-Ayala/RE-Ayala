@@ -21,16 +21,14 @@ Interested in contacting me? Reach out to me on [LinkedIn!](https://www.linkedin
 
 # Academic Projects
 
-## Topsakal Lab Project
+### State-Machine Based Optimizer for AntennaCAT 
+This on-going collection of objective functions pulled from popular literature for testing optimizers has 60+ objective functions with 
+documented solution space, decision space, and objective space with Pareto Front associated with Topsakal Lab. These optimizers integrate with the AntennaCAT project. 
+AntennaCAT is a comprehensive implementation of machine learning to automate, evaluate, and optimize the antenna design process using 
+EM simulation software. It utilizes a combined antenna designer and internal calculator to accelerate the CAD construction and 
+EM simulation of several common topologies, while eliminating model disparity for automated data collection. Forked from LC-Linkous.
 
- ### State-Machine Based Optimizer for AntennaCAT 
-        This on-going collection of objective functions pulled from popular literature for testing optimizers has 60+ objective functions with 
-		documented solution space, decision space, and objective space with Pareto Front. These optimizers integrate with the AntennaCAT project. 
-		AntennaCAT is a comprehensive implementation of machine learning to automate, evaluate, and optimize the antenna design process using 
-		EM simulation software. It utilizes a combined antenna designer and internal calculator to accelerate the CAD construction and 
-		EM simulation of several common topologies, while eliminating model disparity for automated data collection. Forked from LC-Linkous.
-
-		See the [Topsakal Lab README](https://github.com/Topsakal-Lab) or [LC-Linkous's README](https://github.com/LC-Linkous) for more information
+See the [Topsakal Lab README](https://github.com/Topsakal-Lab) or [LC-Linkous's README](https://github.com/LC-Linkous) for more information
 
 # Posters and Other Invited Presentations
 1. J. McKean, K. McKenzie, R. Ayala, and V. Paranganat, *“Minimally Invasive Vascular Surgery Instruments”*, for *VCU BME Fall Capstone Showcase*, Richmond, VA, December 3, 2024.
