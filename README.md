@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-For more information on current projects and step-by-step tutorials, visit my [project page](https://re-ayala.github.io){to be updated}. 
+For more information on current projects and step-by-step tutorials, visit my [project page](https://re-ayala.github.io) {to be updated}. 
 
 
 Interested in contacting me? Reach out to me on [LinkedIn!](https://www.linkedin.com/in/rose-ayala/)
